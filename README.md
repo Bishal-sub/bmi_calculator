@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+This is an elementary calculator implemented using Flutter, tailored for neophytes. The code is meticulously crafted to be accessible for beginners.
 
 ## Getting Started
 
